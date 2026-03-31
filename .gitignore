@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+
+# Chroma DB (local vector DB)
+chroma/
